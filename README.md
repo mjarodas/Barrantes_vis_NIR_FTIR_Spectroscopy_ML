@@ -2,6 +2,7 @@
 # 📌 Overview
 This repository contains the code and workflows for the detection, discrimination and quantification of adulteration of Barrantes wine with other red wines using visible and near-infrared spectroscopy (vis-NIRS) and fourier transformation infrared spectroscopy (FTIR) in combination with machine learning techniques.
 The aim of this research is the evaluation of different classification models to detect the presence of different red wines in Barrantes wine and regression models for the quantification of the same in percentages from 10% to 60%.
+Article avaiable: https://doi.org/10.1016/j.saa.2025.126723
 
 # 📂 Project Structure
 
